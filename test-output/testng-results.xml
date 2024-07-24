@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="16" total="21" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-24T20:45:55 IST" name="Suite" finished-at="2024-07-24T20:48:34 IST" duration-ms="159596">
+    <groups>
+    </groups>
+    <test started-at="2024-07-24T20:45:55 IST" name="Test" finished-at="2024-07-24T20:48:34 IST" duration-ms="159596">
+      <class name="Contacts.CreateContactWithOrganizationTest">
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:Contacts.CreateContactWithOrganizationTest@515aebb0]" started-at="2024-07-24T20:45:55 IST" name="AfterSuite" finished-at="2024-07-24T20:45:55 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:Contacts.CreateContactWithOrganizationTest@515aebb0]" started-at="2024-07-24T20:45:55 IST" name="BeforeSuite" finished-at="2024-07-24T20:45:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:Contacts.CreateContactWithOrganizationTest@515aebb0]" started-at="2024-07-24T20:45:55 IST" name="BeforeTest" finished-at="2024-07-24T20:45:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:Contacts.CreateContactWithOrganizationTest@515aebb0]" started-at="2024-07-24T20:45:55 IST" name="BeforeClass" finished-at="2024-07-24T20:45:58 IST" duration-ms="3184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:Contacts.CreateContactWithOrganizationTest@515aebb0]" started-at="2024-07-24T20:45:58 IST" name="BeforeMethod" finished-at="2024-07-24T20:46:11 IST" duration-ms="13253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="CreateContactWithOrganization()[pri:0, instance:Contacts.CreateContactWithOrganizationTest@515aebb0]" started-at="2024-07-24T20:46:11 IST" name="CreateContactWithOrganization" finished-at="2024-07-24T20:46:39 IST" duration-ms="27382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateContactWithOrganization -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:Contacts.CreateContactWithOrganizationTest@515aebb0]" started-at="2024-07-24T20:46:39 IST" name="AfterMethod" finished-at="2024-07-24T20:46:43 IST" duration-ms="4166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:Contacts.CreateContactWithOrganizationTest@515aebb0]" started-at="2024-07-24T20:46:43 IST" name="AfterClass" finished-at="2024-07-24T20:46:43 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:Contacts.CreateContactWithOrganizationTest@515aebb0]" started-at="2024-07-24T20:48:34 IST" name="AfterTest" finished-at="2024-07-24T20:48:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- Contacts.CreateContactWithOrganizationTest -->
+      <class name="Products.CreateProductsTest">
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:Products.CreateProductsTest@595b007d]" started-at="2024-07-24T20:46:43 IST" name="BeforeClass" finished-at="2024-07-24T20:46:46 IST" duration-ms="3194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:Products.CreateProductsTest@595b007d]" started-at="2024-07-24T20:46:46 IST" name="BeforeMethod" finished-at="2024-07-24T20:46:50 IST" duration-ms="4254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="CreateProducts()[pri:0, instance:Products.CreateProductsTest@595b007d]" started-at="2024-07-24T20:46:50 IST" name="CreateProducts" finished-at="2024-07-24T20:47:06 IST" duration-ms="15843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateProducts -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:Products.CreateProductsTest@595b007d]" started-at="2024-07-24T20:47:06 IST" name="AfterMethod" finished-at="2024-07-24T20:47:10 IST" duration-ms="3561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:Products.CreateProductsTest@595b007d]" started-at="2024-07-24T20:47:10 IST" name="AfterClass" finished-at="2024-07-24T20:47:10 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- Products.CreateProductsTest -->
+      <class name="Campaigns.CreateCampaignsShobhaTest">
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:Campaigns.CreateCampaignsShobhaTest@72d1ad2e]" started-at="2024-07-24T20:47:10 IST" name="BeforeClass" finished-at="2024-07-24T20:47:13 IST" duration-ms="3014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:Campaigns.CreateCampaignsShobhaTest@72d1ad2e]" started-at="2024-07-24T20:47:13 IST" name="BeforeMethod" finished-at="2024-07-24T20:47:17 IST" duration-ms="4478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="CreateCampaignsShobha()[pri:0, instance:Campaigns.CreateCampaignsShobhaTest@72d1ad2e]" started-at="2024-07-24T20:47:17 IST" name="CreateCampaignsShobha" finished-at="2024-07-24T20:47:29 IST" duration-ms="11207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCampaignsShobha -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:Campaigns.CreateCampaignsShobhaTest@72d1ad2e]" started-at="2024-07-24T20:47:29 IST" name="AfterMethod" finished-at="2024-07-24T20:47:32 IST" duration-ms="3768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:Campaigns.CreateCampaignsShobhaTest@72d1ad2e]" started-at="2024-07-24T20:47:32 IST" name="AfterClass" finished-at="2024-07-24T20:47:33 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- Campaigns.CreateCampaignsShobhaTest -->
+      <class name="Campaigns.CreateCampaignsWithProductsTest">
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:Campaigns.CreateCampaignsWithProductsTest@399f45b1]" started-at="2024-07-24T20:47:55 IST" name="BeforeClass" finished-at="2024-07-24T20:47:58 IST" duration-ms="2861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:Campaigns.CreateCampaignsWithProductsTest@399f45b1]" started-at="2024-07-24T20:47:58 IST" name="BeforeMethod" finished-at="2024-07-24T20:48:03 IST" duration-ms="4338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="CreateCampaignsWithProducts()[pri:0, instance:Campaigns.CreateCampaignsWithProductsTest@399f45b1]" started-at="2024-07-24T20:48:03 IST" name="CreateCampaignsWithProducts" finished-at="2024-07-24T20:48:30 IST" duration-ms="27827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCampaignsWithProducts -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:Campaigns.CreateCampaignsWithProductsTest@399f45b1]" started-at="2024-07-24T20:48:30 IST" name="AfterMethod" finished-at="2024-07-24T20:48:34 IST" duration-ms="3668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:Campaigns.CreateCampaignsWithProductsTest@399f45b1]" started-at="2024-07-24T20:48:34 IST" name="AfterClass" finished-at="2024-07-24T20:48:34 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- Campaigns.CreateCampaignsWithProductsTest -->
+      <class name="Organization.CreateOrganizationTest">
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:Organization.CreateOrganizationTest@2d7275fc]" started-at="2024-07-24T20:47:33 IST" name="BeforeClass" finished-at="2024-07-24T20:47:36 IST" duration-ms="3035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:Organization.CreateOrganizationTest@2d7275fc]" started-at="2024-07-24T20:47:36 IST" name="BeforeMethod" finished-at="2024-07-24T20:47:40 IST" duration-ms="4186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="CreateOrganization()[pri:0, instance:Organization.CreateOrganizationTest@2d7275fc]" started-at="2024-07-24T20:47:40 IST" name="CreateOrganization" finished-at="2024-07-24T20:47:52 IST" duration-ms="11821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrganization -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:Organization.CreateOrganizationTest@2d7275fc]" started-at="2024-07-24T20:47:52 IST" name="AfterMethod" finished-at="2024-07-24T20:47:55 IST" duration-ms="3738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:Organization.CreateOrganizationTest@2d7275fc]" started-at="2024-07-24T20:47:55 IST" name="AfterClass" finished-at="2024-07-24T20:47:55 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- Organization.CreateOrganizationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
