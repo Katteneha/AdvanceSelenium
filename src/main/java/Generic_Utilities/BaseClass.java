@@ -1,8 +1,6 @@
 package Generic_Utilities;
 
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Connection;
+
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -15,7 +13,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 
 
-import com.mysql.jdbc.Driver;
+
 
 import Object_Repository.VtigerLoginPage;
 import Object_Repository.homePage;
